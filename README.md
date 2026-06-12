@@ -1,7 +1,7 @@
 # Mini E-Commerce App
 
 ## Live Demo
-https://your-live-url.com
+https://satish-mini-ecommerce.vercel.app/
 
 ## Tech Stack
 - Vue 3 (Composition API)
