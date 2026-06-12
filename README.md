@@ -10,6 +10,47 @@ https://satish-mini-ecommerce.vercel.app/
 - Vue Router
 - Scoped SCSS (SFC Styles)
 
+## Project Structure
+
+```text
+.
+├── public/
+│   ├── favicon.svg
+│   └── icons.svg
+├── src/
+│   ├── assets/
+│   │   ├── hero.png
+│   │   ├── vite.svg
+│   │   └── vue.svg
+│   ├── components/
+│   │   ├── CartDrawer.vue
+│   │   ├── CartItem.vue
+│   │   ├── Navbar.vue
+│   │   ├── ProductCard.vue
+│   │   ├── SkeletonCard.vue
+│   │   └── SuccessModal.vue
+│   ├── data/
+│   │   └── stockData.js
+│   ├── router/
+│   │   └── index.js
+│   ├── stores/
+│   │   ├── cart.js
+│   │   └── products.js
+│   ├── styles/
+│   │   ├── _mixins.scss
+│   │   ├── _variables.scss
+│   │   └── global.scss
+│   ├── views/
+│   │   ├── ProductDetail.vue
+│   │   └── ProductListing.vue
+│   ├── App.vue
+│   └── main.js
+├── index.html
+├── package.json
+├── README.md
+└── vite.config.js
+```
+
 ## Installation
 
 ```bash
