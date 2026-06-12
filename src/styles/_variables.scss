@@ -1,0 +1,43 @@
+// Colors Variables
+$color-bg:            #f8fafc;
+$color-white:         #ffffff;
+$color-white-hover:   #f1f5f9;
+$color-border:        #e2e8f0;
+$color-border-hover:  #cbd5e1;
+
+$color-primary:       #1d4ed8;
+$color-primary-hover: #1e40af;
+$color-text:          #0f172a;
+$color-text-muted:    #64748b;
+
+$color-sale:          #dc2626;
+$color-sale-bg:       rgba(220, 38, 38, 0.1);
+$color-price:         #2e7d32;
+$color-success:       #10b981;
+$color-warning:       #f59e0b;
+$color-warning-dark:  #f57c00;
+$color-danger:        #ef4444;
+$color-danger-dark:   #d32f2f;
+
+$font-sans: 'Outfit', Roboto, Helvetica, Arial, sans-serif;
+
+$breakpoint-mobile:  767px;
+$breakpoint-tablet:  1024px;
+$breakpoint-desktop: 1200px;
+
+$shadow-sm:         0 1px 3px rgba(0, 0, 0, 0.1);
+$shadow-md:         0 4px 12px rgba(0, 0, 0, 0.2);
+$shadow-lg:         0 12px 24px rgba(0, 0, 0, 0.3);
+$shadow-card-hover: 0 20px 40px rgba(15, 23, 42, 0.06);
+$shadow-glow:       0 4px 14px rgba(29, 78, 216, 0.22);
+$transition-normal: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+$transition-fast:   all 0.15s ease-out;
+
+$radius-xs:   4px;
+$radius-sm:   6px;
+$radius-md:   10px;
+$radius-lg:   16px;
+$radius-full: 9999px;
+
+$gradient-primary:       linear-gradient(135deg, #1d4ed8, #3b82f6);
+$gradient-primary-hover: linear-gradient(135deg, #1e40af, #2563eb);
